@@ -1,0 +1,21 @@
+.button {
+  padding: 0;
+  margin: 0;
+  cursor: pointer;
+  font-size: 2rem;
+  border: 1px solid white;
+  outline: none;
+  background: rgb(247, 247, 247, 0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.span2 {
+  grid-column: span 2;
+}
+
+.num {
+  background: rgb(247, 247, 247, 0.45);
+  background: rgb(247, 247, 247, 0.6);
+}
